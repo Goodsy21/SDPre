@@ -1,3 +1,2 @@
 # SDpre
-Hello World.
-# SDPre
+Hello World
